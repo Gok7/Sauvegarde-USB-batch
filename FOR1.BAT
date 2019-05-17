@@ -1,0 +1,2 @@
+@ECHO OFF
+FOR /L %%A IN (1,2,5) DO MD D:\REP\REP%%A

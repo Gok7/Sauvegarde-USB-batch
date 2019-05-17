@@ -1,0 +1,3 @@
+ECHO programme ECHO2
+VER
+PAUSE

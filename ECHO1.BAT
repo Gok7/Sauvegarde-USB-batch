@@ -1,0 +1,4 @@
+ECHO OFF
+ECHO programme ECHO1	
+VER
+PAUSE
